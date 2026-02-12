@@ -1,0 +1,27 @@
+---
+title: "Datos de Santa Cruz de la Sierra"
+author: "Lic. Roger Miranda"
+date: "2026-02-12"
+output: html_document
+---
+
+# Construccion de una pagina Web
+
+## Pasos necesarios
+
++ Instalar R
+
++ Instalar RStudio
+
++ Abrir cuenta de GitHub
+
++ Instalar en nuestra PC
+
+### Elementos
+
++ Documentos
+
++ Videos
+
++ Imagenes
+

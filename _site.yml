@@ -1,0 +1,10 @@
+name: "website"
+output_dir: "."
+navbar:
+  title: "Estadistica"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Informacion"
+      href: Informacion.html
+    
